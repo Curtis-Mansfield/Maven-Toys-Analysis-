@@ -13,6 +13,7 @@ The following is a list of they key analysis points that they are wanting to see
 In order to complete the requests that the owners have made, I will be using SQL to get the metrics for the metrics that they are looking for. 
 
 - I will load the necessary CSV files that were given to me into MySQL Studio. 
+- I will create a database in MySQL Studio called maven_toys.
 - I will clean the data in order to ensure that it is uniform, and check for any null values. 
 - After cleaning and transforming the data, I will move on to the anlaysis of the data. 
 - I will be providing recommendations and an interactive dashboard for the analyzed data. I will be using Power BI for the data visualization. 
